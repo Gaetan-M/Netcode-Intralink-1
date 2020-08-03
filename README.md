@@ -31,7 +31,6 @@ A Community local network React Web App
 - Project Lead - [Angelo](https://github.com/angeloDiepe)
 - Front End Lead - [Angelo](https://github.com/angeloDiepe)
 - Back End Lead - [Gaetan](https://github.com/Gaetan-M)
-- Database Lead - [Cecile](https://github.com/cecilekkac)
 - Designer/ Styling Lead - [Delphine](https://github.com/Delphi-943)
 - Network Lead- [Meli](https://github.com/LoicMeli)
 
